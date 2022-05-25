@@ -10,13 +10,12 @@ I worked through the GeeksforGeeks tutorial (link) to gain a better understandin
 
 # GIF
 
-The following GIF shows the evolution of the GAN:
-
+The following GIF shows the evolution of the GAN over 15,000 epochs:
 ![evolution.gif](evolution.gif)
 
 # Quickstart
 
-To train the GAN from scratch, use:
+To train the GAN from scratch, use:<br>
 <code>python -m train</code>
 
 # Table of Contents
@@ -30,7 +29,7 @@ To train the GAN from scratch, use:
 
 # Installation
 
-Install the required Python dependencies:
+Install the required Python dependencies:<br>
 <code>python -m pip install -r requirements.txt</code>
 
 I'd recommend running this all in a virtual environment or a Docker container.
